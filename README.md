@@ -29,7 +29,7 @@ The 'formatted_data' folder contains formatted data files created
 from raw data either using R scripts or through manual edits
 
 The 'figures' folder contains plot figures generated using
-R scrits
+R scripts
 
 
 ---------------------------------------------------------------------
