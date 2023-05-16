@@ -1,0 +1,5 @@
+blm_ecoregion,bankfull_width,blm_fines_ref_benchmark
+NorthernXericBasin,< 10 m,45
+NorthernXericBasin,>= 10 m,44
+NorthernRockies,< 10 m,29
+NorthernRockies,>= 10 m,15

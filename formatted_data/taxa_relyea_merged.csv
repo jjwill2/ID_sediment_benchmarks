@@ -1,0 +1,1159 @@
+"","scientificName","agency","project","relyea_order","relyea_site_count","relyea_taxa_FSBI","relyea_sensitivity_score","source","relyea_note"
+"1","Ablabesmyia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"2","Ablabesmyia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"3","Acentrella","BLM","AIM WW OE","E",176,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"4","Acentrella","BLM","AIM PIBO OE","E",176,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"5","Acentrella","USFS","PIBO","E",176,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"6","Acentrella insignificans","USFS","PIBO","E",74,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"7","Acentrella turbida","USFS","PIBO","E",72,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"8","Acerpenna","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"9","Actinopterygii","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"10","Aeshna","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"11","Aeshna","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"12","Aeshna eremita","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"13","Aeshna interrupta","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"14","Aeshnidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"15","Agabus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"16","Agabus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"17","Agapetus","USFS","PIBO","T",68,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"18","Agapetus","BLM","AIM WW OE","T",68,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"19","Agapetus","BLM","AIM PIBO OE","T",68,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"20","Agathon","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"21","Agathon","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"22","Agathon","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"23","Agraylea","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"24","Agraylea","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"25","Agraylea","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"26","Allocosmoecus partitus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"27","Allomyia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"28","Alloperla","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"29","Alotanypus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"30","Ambrysus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"31","Ambrysus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"32","Ameletus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"33","Ameletus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"34","Ameletus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"35","Ametor","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"36","Ametor","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"37","Ametor","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"38","Amiocentrus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"39","Amiocentrus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"40","Amiocentrus aspilus","USFS","PIBO","T",40,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"41","Amiocentrus aspilus","BLM","AIM WW OE","T",40,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"42","Amiocentrus aspilus","BLM","AIM PIBO OE","T",40,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"43","Amphicosmoecus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"44","Amphicosmoecus canax","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"45","Amphinemura","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"46","Amphinemura","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"47","Amphinemura","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"48","Amphinemura banksi","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"49","Amphinemura/Malenka","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"50","Amphipoda","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"51","Amphizoa","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"52","Ampumixis dispar","USFS","PIBO","C",28,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"53","Anacaena","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"54","Anagapetus","BLM","AIM WW OE","T",58,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"55","Anagapetus","BLM","AIM PIBO OE","T",58,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"56","Anagapetus","USFS","PIBO","T",58,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"57","Anopheles","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"58","Antocha","USFS","PIBO","D",347,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"59","Antocha monticola","USFS","PIBO","D",37,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"60","Antocha monticola","BLM","AIM PIBO OE","D",37,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"61","Antocha monticola","BLM","AIM WW OE","D",37,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"62","Anura","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"63","Apatania","BLM","AIM PIBO OE","T",112,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"64","Apatania","USFS","PIBO","T",112,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"65","Apatania","BLM","AIM WW OE","T",112,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"66","Apedilum","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"67","Apedilum","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"68","Aquarius","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"69","Archilestes grandis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"70","Arctopsyche","USFS","PIBO","T",199,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"71","Arctopsyche grandis","BLM","AIM PIBO OE","T",190,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"72","Arctopsyche grandis","USFS","PIBO","T",190,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"73","Arctopsyche grandis","BLM","AIM WW OE","T",190,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"74","Arctopsychinae","USFS","PIBO","T",48,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"75","Argia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"76","Argia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"77","Argia vivida","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"78","Arrenurus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"79","Arrenurus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"80","Arrenurus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"81","Ascaphus truei","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"82","Asellidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"83","Asioplax","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"84","Astacidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"85","Atherix","USFS","PIBO","D",113,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"86","Atherix pachypus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"87","Atherix pachypus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"88","Atherix pachypus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"89","Atractelmis wawona","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"90","Atrichopogon","BLM","AIM PIBO OE","D",53,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"91","Atrichopogon","USFS","PIBO","D",53,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"92","Atrichopogon","BLM","AIM WW OE","D",53,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"93","Atrichopogon/Forcipomyia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"94","Attenella","BLM","AIM WW OE","E",95,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"95","Attenella","USFS","PIBO","E",95,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"96","Attenella delantala","USFS","PIBO","E",7,10,"moderately fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"97","Attenella delantala","BLM","AIM WW OE","E",7,10,"moderately fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"98","Attenella margarita","USFS","PIBO","E",50,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"99","Baetidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"100","Baetis","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"101","Baetis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"102","Baetis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"103","Baetis bicaudatus","USFS","PIBO","E",324,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"104","Baetis tricaudatus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"105","Berosus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"106","Berosus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"107","Bezzia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"108","Bezzia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"109","Bezzia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"110","Bezzia/Probezzia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"111","Bibiocephala","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"112","Bibiocephala grandis","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"113","Bibiocephala grandis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"114","Bibiocephala grandis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"115","Bidessini","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"116","Blepharicera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"117","Blepharicera","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"118","Blephariceridae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"119","Blephariceridae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"120","Blephariceridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"121","Boreoheptagyia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"122","Boreoheptagyia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"123","Boreoheptagyia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"124","Brachycentridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"125","Brachycentrus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"126","Brachycentrus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"127","Brachycentrus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"128","Brachycentrus americanus","BLM","AIM PIBO OE","T",191,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"129","Brachycentrus americanus","BLM","AIM WW OE","T",191,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"130","Brachycentrus americanus","USFS","PIBO","T",191,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"131","Brachycentrus occidentalis","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"132","Brachycentrus occidentalis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"133","Brachycentrus occidentalis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"134","Brillia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"135","Brillia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"136","Brychius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"137","Brychius","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"138","Bryelmis idahoensis","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"139","Bryelmis idahoensis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"140","Caecidotea","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"141","Caecidotea","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"142","Caenis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"143","Caenis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"144","Caenis latipennis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"145","Calineuria","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"146","Calineuria californica","BLM","AIM PIBO OE","P",160,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"147","Calineuria californica","BLM","AIM WW OE","P",160,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"148","Calineuria californica","USFS","PIBO","P",160,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"149","Callibaetis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"150","Callibaetis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"151","Caloparyphus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"152","Caloparyphus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"153","Calopterygidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"154","Cambaridae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"155","Cambaridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"156","Capnia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"157","Capniidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"158","Capniidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"159","Capniidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"160","Capniidae/Leuctridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"161","Carabidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"162","Carabidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"163","Cardiocladius","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"164","Cardiocladius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"165","Caudatella","USFS","PIBO","E",194,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"166","Caudatella","BLM","AIM WW OE","E",194,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"167","Caudatella","BLM","AIM PIBO OE","E",194,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"168","Caudatella edmundsi","USFS","PIBO","E",16,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"169","Caudatella heterocaudata","BLM","AIM WW OE","E",7,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"170","Caudatella heterocaudata","BLM","AIM PIBO OE","E",7,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"171","Caudatella heterocaudata","USFS","PIBO","E",7,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"172","Caudatella hystrix","BLM","AIM PIBO OE","E",55,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"173","Caudatella hystrix","BLM","AIM WW OE","E",55,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"174","Caudatella hystrix","USFS","PIBO","E",55,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"175","Caurinella idahoensis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"176","Centroptilum","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"177","Centroptilum","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"178","Centroptilum","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"179","Ceraclea","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"180","Ceratopogan/Culicoides","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"181","Ceratopogon","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"182","Ceratopogon","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"183","Ceratopogon","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"184","Ceratopogonidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"185","Ceratopogonidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"186","Ceratopogoninae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"187","Chaetarthria","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"188","Chaetocladius","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"189","Chaetocladius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"190","Chaoborus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"191","Chelifera","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"192","Chelifera","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"193","Chelifera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"194","Chelifera/Neoplasta","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"195","Chelifera/Neoplasta","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"196","Chelifera/Neoplasta","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"197","Cheryl Barr Undescribed","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"198","Cheumatopsyche","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"199","Cheumatopsyche","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"200","Chimarra","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"201","Chimarra","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"202","Chironomidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"203","Chironomidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"204","Chironominae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"205","Chironominae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"206","Chironominae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"207","Chironomini","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"208","Chironomini","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"209","Chironomus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"210","Chironomus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"211","Chloroperlidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"212","Chloroperlidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"213","Chloroperlidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"214","Chloroperlinae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"215","Chloroperlinae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"216","Chloroperlinae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"217","Chryanda","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"218","Chrysops","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"219","Chrysops","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"220","Chyranda centralis","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"221","Chyranda centralis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"222","Chyranda centralis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"223","Cinygma","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"224","Cinygma","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"225","Cinygma","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"226","Cinygmula","BLM","AIM WW OE","E",612,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"227","Cinygmula","USFS","PIBO","E",612,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"228","Cinygmula","BLM","AIM PIBO OE","E",612,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"229","Claassenia sabulosa","USFS","PIBO","P",44,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"230","Claassenia sabulosa","BLM","AIM PIBO OE","P",44,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"231","Claassenia sabulosa","BLM","AIM WW OE","P",44,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"232","Cladotanytarsus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"233","Cladotanytarsus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"234","Cleptelmis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"235","Cleptelmis addenda","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"236","Cleptelmis addenda","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"237","Cleptelmis addenda","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"238","Clinocera","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"239","Clinocera","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"240","Clinocera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"241","Coenagrionidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"242","Coenagrionidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"243","Coleoptera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"244","Collembola","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"245","Copepoda","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"246","Cordulegaster","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"247","Cordulegaster dorsalis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"248","Cordulegaster dorsalis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"249","Corisella","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"250","Corixidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"251","Corixidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"252","Corynoneura","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"253","Corynoneura","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"254","Cottidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"255","Cottus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"256","Crangonyctidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"257","Cricotopus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"258","Cricotopus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"259","Cricotopus bicinctus group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"260","Cricotopus bicinctus group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"261","Cricotopus nostocicola","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"262","Cricotopus nostocicola","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"263","Cricotopus trifascia group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"264","Cricotopus trifascia group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"265","Cryptochia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"266","Cryptochia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"267","Cryptochia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"268","Cryptolabis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"269","Cryptolabis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"270","Cryptotendipes","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"271","Cryptotendipes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"272","Culex","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"273","Culicidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"274","Culicidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"275","Culicoides","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"276","Culicoides","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"277","Culicoides","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"278","Culiseta","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"279","Culoptila/Protoptila","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"280","Cultus","USFS","PIBO","P",70,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"281","Curculionidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"282","Curculionidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"283","Cymbiodyta","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"284","Dasyhelea","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"285","Dasyhelea","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"286","Decapoda","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"287","Deronectes","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"288","Desmona","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"289","Desmona mono","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"290","Desmona mono","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"291","Deuterophlebia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"292","Deuterophlebia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"293","Deuterophlebia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"294","Deuterophlebia coloradensis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"295","Diamesa","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"296","Diamesa","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"297","Diamesinae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"298","Diamesinae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"299","Diamesinae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"300","Dicosmoecus","BLM","AIM PIBO OE","T",95,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"301","Dicosmoecus","USFS","PIBO","T",95,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"302","Dicosmoecus","BLM","AIM WW OE","T",95,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"303","Dicranota","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"304","Dicranota","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"305","Dicranota","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"306","Dicrotendipes","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"307","Dicrotendipes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"308","Dina","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"309","Diphetor hageni","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"310","Diphetor hageni","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"311","Diphetor hageni","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"312","Diphetor/Fallceon","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"313","Diplocladius","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"314","Diplocladius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"315","Diptera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"316","Diura","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"317","Diura knowltoni","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"318","Diura knowltoni","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"319","Dixa","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"320","Dixa","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"321","Dixa","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"322","Dixella","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"323","Dixella","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"324","Dixidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"325","Dolichopodidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"326","Dolichopodidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"327","Dolichopodidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"328","Dolophilodes","BLM","AIM WW OE","T",118,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"329","Dolophilodes","USFS","PIBO","T",118,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"330","Dolophilodes","BLM","AIM PIBO OE","T",118,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"331","Doroneuria","USFS","PIBO","P",179,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"332","Doroneuria baumanni","USFS","PIBO","P",7,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"333","Doroneuria theodora","BLM","AIM PIBO OE","P",7,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"334","Doroneuria theodora","USFS","PIBO","P",7,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"335","Doroneuria theodora","BLM","AIM WW OE","P",7,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"336","Drunella","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"337","Drunella coloradensis","BLM","AIM WW OE","E",187,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"338","Drunella coloradensis","USFS","PIBO","E",187,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"339","Drunella coloradensis","BLM","AIM PIBO OE","E",187,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"340","Drunella coloradensis/flavilinea","BLM","AIM PIBO OE","E",155,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"341","Drunella coloradensis/flavilinea","BLM","AIM WW OE","E",155,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"342","Drunella coloradensis/flavilinea","USFS","PIBO","E",155,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"343","Drunella doddsii","BLM","AIM PIBO OE","E",499,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"344","Drunella doddsii","USFS","PIBO","E",499,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"345","Drunella doddsii","BLM","AIM WW OE","E",499,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"346","Drunella flavilinea","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"347","Drunella grandis","BLM","AIM PIBO OE","E",107,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"348","Drunella grandis","BLM","AIM WW OE","E",107,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"349","Drunella grandis","USFS","PIBO","E",107,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"350","Drunella grandis/spinifera","USFS","PIBO","E",132,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"351","Drunella spinifera","BLM","AIM WW OE","E",100,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"352","Drunella spinifera","USFS","PIBO","E",100,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"353","Drunella spinifera","BLM","AIM PIBO OE","E",100,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"354","Dubiraphia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"355","Dubiraphia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"356","Dubiraphia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"357","Dubiraphia vittata","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"358","Dubiraphia vittata","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"359","Dubiraphia vittata","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"360","Dytiscidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"361","Ecclisocosmoecus scylla","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"362","Ecclisomyia","BLM","AIM WW OE","T",64,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"363","Ecclisomyia","BLM","AIM PIBO OE","T",64,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"364","Ecclisomyia","USFS","PIBO","T",64,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"365","Ecdyonurus criddlei","USFS","PIBO","E",56,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"366","Elmidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"367","Empididae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"368","Empididae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"369","Enallagma","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"370","Enochrus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"371","Eocosmoecus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"372","Epeorus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"373","Epeorus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"374","Epeorus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"375","Ephemera simulans","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"376","Ephemerella","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"377","Ephemerella","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"378","Ephemerella","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"379","Ephemerella aurivillii","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"380","Ephemerella dorothea/excrucians","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"381","Ephemerella dorothea/excrucians","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"382","Ephemerella dorothea/excrucians","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"383","Ephemerella tibialis","BLM","AIM PIBO OE","E",370,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"384","Ephemerella tibialis","USFS","PIBO","E",370,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"385","Ephemerella tibialis","BLM","AIM WW OE","E",370,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"386","Ephemerellidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"387","Ephemeroptera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"388","Ephydridae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"389","Ephydridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"390","Erpobdellidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"391","Erpobdellidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"392","Eubrianax edwardsii","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"393","Eubrianax edwardsii","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"394","Eubrianax edwardsii","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"395","Eucapnopsis brevicauda","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"396","Eukiefferiella brehmi group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"397","Eukiefferiella brehmi group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"398","Eukiefferiella brevicalcar group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"399","Eukiefferiella brevicalcar group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"400","Eukiefferiella claripennis group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"401","Eukiefferiella claripennis group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"402","Eukiefferiella coerulescens group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"403","Eukiefferiella coerulescens group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"404","Eukiefferiella devonica group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"405","Eukiefferiella devonica group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"406","Eukiefferiella discoloripes group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"407","Eukiefferiella discoloripes group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"408","Eukiefferiella gracei group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"409","Eukiefferiella gracei group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"410","Eukiefferiella pseudomontana group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"411","Eukiefferiella pseudomontana group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"412","Euparyphus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"413","Euparyphus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"414","Eylais","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"415","Eylais","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"416","Fallceon","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"417","Fallceon","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"418","Fallceon quilleri","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"419","Farula","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"420","Farula/Neothremma","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"421","Ferrissia rivularis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"422","Ferrissia rivularis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"423","Fluminicola","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"424","Fluminicola","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"425","Fluminicola","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"426","Forcipomyia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"427","Forcipomyia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"428","Forcipomyia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"429","Gammarus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"430","Gammarus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"431","Gammarus lacustris","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"432","Gastropoda","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"433","Gerridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"434","Gerris","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"435","Glossosoma","BLM","AIM PIBO OE","T",432,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"436","Glossosoma","BLM","AIM WW OE","T",432,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"437","Glossosoma","USFS","PIBO","T",432,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"438","Glossosomatidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"439","Glutops","BLM","AIM WW OE","D",189,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"440","Glutops","BLM","AIM PIBO OE","D",189,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"441","Glutops","USFS","PIBO","D",189,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"442","Gomphidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"443","Gomphidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"444","Gomphus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"445","Gumaga","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"446","Gumaga","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"447","Gyraulus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"448","Gyraulus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"449","Gyraulus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"450","Gyraulus circumstriatus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"451","Haliplidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"452","Haliplus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"453","Heleniella","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"454","Heleniella","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"455","Helichus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"456","Helichus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"457","Helicopsyche","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"458","Helicopsyche","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"459","Helicopsyche borealis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"460","Helobdella stagnalis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"461","Helobdella stagnalis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"462","Helodon","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"463","Helodon","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"464","Helodon","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"465","Helodon onychodactylum group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"466","Helophorus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"467","Helophorus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"468","Helophorus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"469","Hemerodromia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"470","Hemerodromia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"471","Hemerodromia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"472","Hemiptera (terrestrial)","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"473","Heptagenia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"474","Heptagenia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"475","Heptageniidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"476","Hesperoconopa","BLM","AIM WW OE","D",50,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"477","Hesperoconopa","USFS","PIBO","D",50,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"478","Hesperoconopa","BLM","AIM PIBO OE","D",50,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"479","Hesperoperla pacifica","BLM","AIM WW OE","P",248,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"480","Hesperoperla pacifica","USFS","PIBO","P",248,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"481","Hesperoperla pacifica","BLM","AIM PIBO OE","P",248,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"482","Hesperophylax","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"483","Hesperophylax","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"484","Heterelmis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"485","Heterlimnius","BLM","AIM WW OE","C",584,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"486","Heterlimnius","USFS","PIBO","C",584,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"487","Heterlimnius","BLM","AIM PIBO OE","C",584,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"488","Heterlimnius corpulentus","BLM","AIM WW OE","C",175,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"489","Heterlimnius corpulentus","BLM","AIM PIBO OE","C",175,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"490","Heterlimnius corpulentus","USFS","PIBO","C",175,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"491","Heteroptera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"492","Heterotrissocladius marcidus group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"493","Heterotrissocladius marcidus group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"494","Hexatoma","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"495","Hexatoma","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"496","Hexatoma","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"497","Hirudinea","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"498","Homophylax","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"499","Homophylax","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"500","Homophylax","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"501","Hyalella","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"502","Hyalella","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"503","Hyalella azteca","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"504","Hydraena","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"505","Hydraena","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"506","Hydraena","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"507","Hydraenidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"508","Hydridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"509","Hydrobaenus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"510","Hydrobaenus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"511","Hydrobiidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"512","Hydrobiidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"513","Hydrobiidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"514","Hydrobius","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"515","Hydrochus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"516","Hydrophilidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"517","Hydroporinae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"518","Hydropsyche","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"519","Hydropsyche","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"520","Hydropsyche","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"521","Hydropsychidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"522","Hydroptila","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"523","Hydroptila","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"524","Hydroptila","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"525","Hydroptilidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"526","Hydroptilidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"527","Hydroscaphidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"528","Hydrosmittia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"529","Hydrosmittia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"530","Hydryphantidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"531","Hygrobates","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"532","Hygrobates","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"533","Hygrobates","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"534","Hygrobatidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"535","Hygrobatidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"536","Hygrobatidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"537","Hygrotus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"538","Ironodes","USFS","PIBO","E",39,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"539","Ironodes","BLM","AIM PIBO OE","E",39,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"540","Ironodes","BLM","AIM WW OE","E",39,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"541","Ironodes nitidus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"542","Ischnura","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"543","Isogenoides","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"544","Isogenoides","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"545","Isoperla","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"546","Isoperla","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"547","Isoperla","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"548","Juga bulbosa","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"549","Kathroperla","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"550","Kathroperla","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"551","Kathroperla perdita","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"552","Kogotus","USFS","PIBO","P",39,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"553","Kogotus","BLM","AIM PIBO OE","P",39,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"554","Kogotus","BLM","AIM WW OE","P",39,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"555","Krenosmittia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"556","Laccobius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"557","Laccobius","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"558","Lara","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"559","Lara","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"560","Lara","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"561","Lara avara","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"562","Lara avara","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"563","Lara avara","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"564","Larsia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"565","Larsia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"566","Lebertia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"567","Lebertia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"568","Lebertia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"569","Lepidostoma","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"570","Lepidostoma","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"571","Lepidostoma","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"572","Lepidostoma unicolor group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"573","Leptoceridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"574","Leptophlebia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"575","Leptophlebiidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"576","Leptophlebiidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"577","Leucotrichia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"578","Leucotrichia pictipes","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"579","Leucotrichia pictipes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"580","Leucotrichia pictipes","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"581","Leucrocuta","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"582","Leuctridae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"583","Leuctridae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"584","Leuctridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"585","Libellulidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"586","Limnephilidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"587","Limnephilus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"588","Limnesia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"589","Limnophila","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"590","Limnophila","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"591","Limnophila","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"592","Limnophora","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"593","Limnophyes","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"594","Limnophyes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"595","Limnoporus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"596","Limonia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"597","Liodessus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"598","Liodessus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"599","Liodessus obscurellus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"600","Liodessus obscurellus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"601","Lopescladius","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"602","Lopescladius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"603","Lumbriculata","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"604","Lymnaea","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"605","Lymnaea","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"606","Lymnaeidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"607","Malenka","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"608","Malenka","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"609","Malenka","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"610","Margaritifera falcata","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"611","Maruina","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"612","Maruina","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"613","Maruina","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"614","Matriella teresa","USFS","PIBO","E",31,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"615","Mayatrichia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"616","Mayatrichia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"617","Mayatrichia/Neotrichia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"618","Megarcys","BLM","AIM PIBO OE","P",220,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"619","Megarcys","BLM","AIM WW OE","P",220,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"620","Megarcys","USFS","PIBO","P",220,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"621","Megarcys signata","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"622","Megarcys signata","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"623","Meringodixa","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"624","Meringodixa chalonensis","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"625","Meringodixa chalonensis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"626","Meringodixa chalonensis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"627","Metacnephia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"628","Micrasema","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"629","Micrasema","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"630","Micrasema","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"631","Microcylloepus pusillus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"632","Microcylloepus pusillus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"633","Microcylloepus pusillus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"634","Micropsectra","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"635","Micropsectra","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"636","Microtendipes pedellus group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"637","Microtendipes pedellus group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"638","Microtendipes rydalensis group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"639","Mideopsis","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"640","Mideopsis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"641","Mideopsis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"642","Molophilus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"643","Molophilus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"644","Monodiamesa","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"645","Muscidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"646","Muscidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"647","Musculium","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"648","Myxosargus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"649","Nanocladius","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"650","Nanocladius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"651","Narpus","BLM","AIM WW OE","C",164,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"652","Narpus","USFS","PIBO","C",164,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"653","Narpus","BLM","AIM PIBO OE","C",164,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"654","Narpus concolor","BLM","AIM WW OE","C",52,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"655","Narpus concolor","BLM","AIM PIBO OE","C",52,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"656","Narpus concolor","USFS","PIBO","C",52,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"657","Nectopsyche","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"658","Nematoda","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"659","Nematomorpha","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"660","Nematomorpha","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"661","Nemotelus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"662","Nemotelus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"663","Nemouridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"664","Neophylax","USFS","PIBO","T",184,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"665","Neophylax","BLM","AIM WW OE","T",184,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"666","Neophylax","BLM","AIM PIBO OE","T",184,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"667","Neophylax occidentis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"668","Neophylax rickeri","USFS","PIBO","T",27,10,"moderately fine sediment sensitive","Relyea 2007 Table 4",""
+"669","Neophylax splendens","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"670","Neoplasta","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"671","Neoplasta","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"672","Neoplasta","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"673","Neothremma","BLM","AIM WW OE","T",188,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"674","Neothremma","USFS","PIBO","T",188,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"675","Neothremma","BLM","AIM PIBO OE","T",188,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"676","Neotrichia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"677","Neotrichia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"678","Neotrichia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"679","Nilotanypus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"680","Nilotanypus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"681","Ochrotrichia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"682","Ochrotrichia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"683","Ochrotrichia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"684","Ochthebius","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"685","Ochthebius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"686","Odonata","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"687","Odontomesa","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"688","Odontomyia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"689","Oecetis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"690","Oecetis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"691","Oecetis disjuncta","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"692","Oligochaeta","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"693","Oligochaeta","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"694","Oligochaeta","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"695","Oligophlebodes","BLM","AIM PIBO OE","T",107,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"696","Oligophlebodes","USFS","PIBO","T",107,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"697","Oligophlebodes","BLM","AIM WW OE","T",107,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"698","Onocosmoecus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"699","Onocosmoecus unicolor","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"700","Onocosmoecus unicolor","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"701","Onocosmoecus unicolor","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"702","Ophiogomphus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"703","Ophiogomphus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"704","Ophiogomphus severus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"705","Ophiogomphus severus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"706","Optioservus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"707","Optioservus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"708","Optioservus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"709","Optioservus divergens","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"710","Optioservus divergens","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"711","Optioservus quadrimaculatus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"712","Optioservus quadrimaculatus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"713","Optioservus quadrimaculatus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"714","Ordobrevia nubifer","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"715","Ordobrevia nubifer","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"716","Ordobrevia nubifer","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"717","Oreodytes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"718","Oreodytes","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"719","Oreodytes","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"720","Oreogeton","BLM","AIM PIBO OE","D",46,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"721","Oreogeton","BLM","AIM WW OE","D",46,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"722","Oreogeton","USFS","PIBO","D",46,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"723","Oreoleptis torrenticola","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"724","Ormosia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"725","Orthocladiinae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"726","Orthocladiinae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"727","Orthocladiinae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"728","Orthocladiini/Metriocnemini","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"729","Orthocladiini/Metriocnemini","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"730","Orthocladius","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"731","Orthocladius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"732","Orthocladius lignicola","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"733","Orthocladius lignicola","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"734","Ostracoda","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"735","Oxus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"736","Oxus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"737","Oxus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"738","Oxyethira","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"739","Oxyethira","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"740","Oxyethira","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"741","Pacifastacus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"742","Pacifastacus connectens","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"743","Pacifastacus connectens","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"744","Pacifastacus leniusculus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"745","Pacifastacus leniusculus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"746","Pacifastacus leniusculus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"747","Pagastia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"748","Pagastia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"749","Palaeagapetus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"750","Panisus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"751","Paracladopelma","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"752","Paracladopelma","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"753","Paracymus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"754","Paracymus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"755","Parakiefferiella","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"756","Parakiefferiella","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"757","Paraleptophlebia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"758","Paraleptophlebia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"759","Paraleptophlebia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"760","Parametriocnemus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"761","Parametriocnemus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"762","Paraperla","USFS","PIBO","P",115,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"763","Paraperla","BLM","AIM PIBO OE","P",115,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"764","Paraperla","BLM","AIM WW OE","P",115,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"765","Parapsyche","BLM","AIM WW OE","T",522,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"766","Parapsyche","USFS","PIBO","T",522,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"767","Parapsyche","BLM","AIM PIBO OE","T",522,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"768","Parapsyche almota","USFS","PIBO","T",49,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"769","Parapsyche elsis","BLM","AIM WW OE","T",194,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"770","Parapsyche elsis","BLM","AIM PIBO OE","T",194,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"771","Parapsyche elsis","USFS","PIBO","T",194,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"772","Paratanytarsus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"773","Paratanytarsus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"774","Paratendipes","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"775","Paratendipes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"776","Parorthocladius","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"777","Parorthocladius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"778","Pedicia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"779","Pedicia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"780","Pedicia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"781","Pedomoecus sierra","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"782","Pelecypoda","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"783","Peltodytes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"784","Peltodytes","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"785","Peltoperlidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"786","Peltoperlidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"787","Pentaneura","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"788","Pentaneura","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"789","Pericoma","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"790","Pericoma","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"791","Pericoma","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"792","Perlidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"793","Perlinodes aurea","BLM","AIM WW OE","P",30,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"794","Perlinodes aurea","BLM","AIM PIBO OE","P",30,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"795","Perlinodes aurea","USFS","PIBO","P",30,20,"extremely fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"796","Perlodidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"797","Perlodidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"798","Perlomyia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"799","Petrophila","USFS","PIBO","L",47,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"800","Petrophila","BLM","AIM WW OE","L",47,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"801","Phaenopsectra","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"802","Phaenopsectra","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"803","Philopotamidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"804","Philorus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"805","Phryganeidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"806","Physa","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"807","Physa","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"808","Pictetiella expansa","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"809","Pilaria","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"810","Pionidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"811","Pionidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"812","Piscicolidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"813","Pisidiidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"814","Pisidium","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"815","Pisidium","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"816","Pisidium","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"817","Planorbidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"818","Planorbidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"819","Platyhelminthes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"820","Plauditus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"821","Plauditus punctiventris","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"822","Plauditus punctiventris","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"823","Plecoptera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"824","Plumiperla","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"825","Plumiperla","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"826","Plumiperla","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"827","Plumiperla diversa","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"828","Podmosta","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"829","Podocopida","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"830","Podonominae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"831","Podonominae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"832","Polycentropodidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"833","Polycentropodidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"834","Polycentropus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"835","Polycentropus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"836","Polycentropus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"837","Polycentropus centralis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"838","Polypedilum","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"839","Polypedilum","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"840","Postelichus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"841","Potamopyrgus antipodarum","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"842","Potthastia gaedii group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"843","Potthastia gaedii group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"844","Probezzia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"845","Probezzia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"846","Probezzia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"847","Procladius","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"848","Procladius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"849","Procloeon","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"850","Prodiamesinae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"851","Prodiamesinae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"852","Prosimulium","USFS","PIBO","D",172,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"853","Prosimulium","BLM","AIM WW OE","D",172,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"854","Prosimulium","BLM","AIM PIBO OE","D",172,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"855","Prosimulium/Helodon","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"856","Protoptila","USFS","PIBO","T",28,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"857","Protoptila","BLM","AIM WW OE","T",28,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"858","Protzia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"859","Protzia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"860","Protzia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"861","Psephenidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"862","Psephenus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"863","Psephenus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"864","Pseudochironomus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"865","Pseudochironomus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"866","Pseudocloeon","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"867","Pseudodiamesa","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"868","Pseudodiamesa","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"869","Pseudodiamesa","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"870","Pseudorthocladius","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"871","Psilometriocnemus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"872","Psychodidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"873","Psychodidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"874","Psychoglypha","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"875","Psychoglypha","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"876","Psychoglypha","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"877","Psychomyia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"878","Psychomyiidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"879","Pteronarcella","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"880","Pteronarcella","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"881","Pteronarcella","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"882","Pteronarcella badia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"883","Pteronarcella badia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"884","Pteronarcella badia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"885","Pteronarcyidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"886","Pteronarcys","BLM","AIM PIBO OE","P",101,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"887","Pteronarcys","BLM","AIM WW OE","P",101,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"888","Pteronarcys","USFS","PIBO","P",101,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"889","Pteronarcys californica","BLM","AIM PIBO OE","P",52,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"890","Pteronarcys californica","BLM","AIM WW OE","P",52,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"891","Pteronarcys californica","USFS","PIBO","P",52,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"892","Pteronarcys princeps","USFS","PIBO","P",8,10,"moderately fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"893","Pteronarcys princeps","BLM","AIM WW OE","P",8,10,"moderately fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"894","Pteronarcys princeps","BLM","AIM PIBO OE","P",8,10,"moderately fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"895","Ptychoptera","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"896","Ptychoptera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"897","Ptychopteridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"898","Pyrgulopsis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"899","Radotanypus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"900","Radotanypus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"901","Rhabdomastix","BLM","AIM PIBO OE","D",107,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"902","Rhabdomastix","BLM","AIM WW OE","D",107,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"903","Rhabdomastix","USFS","PIBO","D",107,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"904","Rheocricotopus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"905","Rheocricotopus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"906","Rheotanytarsus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"907","Rheotanytarsus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"908","Rhithrogena","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"909","Rhithrogena","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"910","Rhithrogena","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"911","Rhizelmis nigra","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"912","Rhyacophila","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"913","Rhyacophila","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"914","Rhyacophila alberta group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"915","Rhyacophila alberta group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"916","Rhyacophila angelita group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"917","Rhyacophila angelita group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"918","Rhyacophila angelita group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"919","Rhyacophila atrata complex","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"920","Rhyacophila atrata complex","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"921","Rhyacophila betteni group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"922","Rhyacophila betteni group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"923","Rhyacophila betteni group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"924","Rhyacophila brunnea","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"925","Rhyacophila brunnea group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"926","Rhyacophila brunnea/vemna group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"927","Rhyacophila brunnea/vemna group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"928","Rhyacophila brunnea/vemna group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"929","Rhyacophila coloradensis group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"930","Rhyacophila coloradensis group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"931","Rhyacophila ecosa group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"932","Rhyacophila grandis group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"933","Rhyacophila hyalinata group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"934","Rhyacophila hyalinata group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"935","Rhyacophila hyalinata group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"936","Rhyacophila narvae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"937","Rhyacophila narvae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"938","Rhyacophila rotunda group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"939","Rhyacophila sibirica group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"940","Rhyacophila tucula","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"941","Rhyacophila vaccua","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"942","Rhyacophila vagrita group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"943","Rhyacophila vagrita group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"944","Rhyacophila verrula","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"945","Rhyacophila verrula group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"946","Rhyacophila verrula group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"947","Rhyacophila verrula group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"948","Rhyacophila viquaea group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"949","Rhyacophila viquaea group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"950","Rhyacophila vofixa group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"951","Rhyacophila vofixa group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"952","Rhyacophila vofixa group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"953","Rhyacophilidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"954","Rickera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"955","Rickera sorpta","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"956","Sanfilippodytes","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"957","Sciomyzidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"958","Sepedon","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"959","Sergentia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"960","Sergentia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"961","Sericostriata surdickae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"962","Sericostriata surdickae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"963","Sericostriata surdickae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"964","Serratella","BLM","AIM WW OE","E",436,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"965","Serratella","BLM","AIM PIBO OE","E",436,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"966","Serratella","USFS","PIBO","E",436,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"967","Serratella micheneri","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"968","Setvena","USFS","PIBO","P",55,15,"very fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"969","Setvena bradleyi","USFS","PIBO","P",18,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"970","Setvena bradleyi","BLM","AIM PIBO OE","P",18,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"971","Setvena bradleyi","BLM","AIM WW OE","P",18,15,"very fine sediment sensitive","Relyea 2007 Table 4","n-size too small, therefore species occurrence value is the same as genus occurrence value"
+"972","Sialis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"973","Sialis","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"974","Sialis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"975","Sigara","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"976","Sigara","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"977","Simuliidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"978","Simuliidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"979","Simulium","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"980","Simulium","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"981","Simulium","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"982","Simulium arcticum","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"983","Simulium arcticum group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"984","Simulium argus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"985","Simulium canadense","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"986","Simulium defoliarti","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"987","Simulium meridionale","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"988","Simulium tuberosum group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"989","Simulium venustum group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"990","Siphlonuridae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"991","Siphlonuridae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"992","Siphlonurus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"993","Siphlonurus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"994","Siphlonurus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"995","Skwala","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"996","Skwala","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"997","Skwala","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"998","Skwala americana","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"999","Skwala americana","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1000","Skwala americana","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1001","Soyedina","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1002","Sperchon","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1003","Sperchon","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1004","Sperchon","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1005","Sperchonidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1006","Sperchonidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1007","Sperchonidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1008","Sperchonopsis","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1009","Sperchonopsis","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1010","Sperchonopsis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1011","Sphaerium","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1012","Sphaerium","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1013","Stagnicola","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1014","Staphylinidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1015","Stegopterna","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1016","Stempellina","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1017","Stempellina","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1018","Stempellinella","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1019","Stempellinella","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1020","Stenelmis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1021","Stenonema femoratum","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1022","Stenonema femoratum","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1023","Stictochironomus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1024","Stictochironomus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1025","Stictotarsus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1026","Stictotarsus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1027","Stratiomyidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1028","Stratiomyidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1029","Stratiomys","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1030","Stratiomys","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1031","Stygobromus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1032","Sublettea","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1033","Sublettea","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1034","Suwallia","BLM","AIM WW OE","P",96,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1035","Suwallia","BLM","AIM PIBO OE","P",96,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1036","Suwallia","USFS","PIBO","P",96,10,"moderately fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1037","Sweltsa","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1038","Sweltsa","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1039","Sweltsa","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1040","Synorthocladius","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1041","Synorthocladius","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1042","Tabanidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1043","Tabanidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1044","Tabanidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1045","Tabanus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1046","Tabanus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1047","Tabanus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1048","Taenionema","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1049","Taeniopterygidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1050","Taeniopterygidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1051","Taeniopteryx","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1052","Taeniopteryx","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1053","Tanypodinae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1054","Tanypodinae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1055","Tanypodinae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1056","Tanytarsus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1057","Tanytarsus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1058","Telmatogetoninae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1059","Testudacarus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1060","Testudacarus","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1061","Testudacarus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1062","Thaumalea","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1063","Thaumalea","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1064","Thaumaleidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1065","Thaumaleidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1066","Thaumaleidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1067","Thienemanniella","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1068","Thienemanniella","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1069","Thienemannimyia group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1070","Thienemannimyia group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1071","Timpanoga hecuba","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1072","Timpanoga hecuba","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1073","Tipula","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1074","Tipula","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1075","Tipula","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1076","Tipula (Arctotipula)","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1077","Tipula (Nippotipula)","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1078","Tipulidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1079","Torrenticola","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1080","Torrenticola","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1081","Torrenticola","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1082","Torrenticolidae","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1083","Torrenticolidae","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1084","Torrenticolidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1085","Triaenodes","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1086","Trichoclinocera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1087","Trichoptera","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1088","Tricorythodes","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1089","Tricorythodes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1090","Tricorythodes","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1091","Triznaka","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1092","Trombidiformes","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1093","Trombidiformes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1094","Trombidiformes","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1095","Tropisternus","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1096","Tropisternus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1097","Tubificida","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1098","Tvetenia bavarica group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1099","Tvetenia bavarica group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1100","Uenoidae","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1101","Unionicola","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1102","Unionicola","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1103","Utaperla sopladora","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1104","Uvarus","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1105","Valvata","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1106","Valvata humeralis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1107","Visoka","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1108","Visoka cataractae","USFS","PIBO","P",172,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1109","Visoka cataractae","BLM","AIM PIBO OE","P",172,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1110","Visoka cataractae","BLM","AIM WW OE","P",172,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1111","Vorticifex effusa","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1112","Vorticifex effusa","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1113","Wandesia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1114","Wandesia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1115","Wandesia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1116","Wiedemannia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1117","Wiedemannia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1118","Wiedemannia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1119","Wormaldia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1120","Wormaldia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1121","Wormaldia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1122","Xenacoelomorpha","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1123","Xenacoelomorpha","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1124","Yoraperla","BLM","AIM WW OE","P",396,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1125","Yoraperla","BLM","AIM PIBO OE","P",396,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1126","Yoraperla","USFS","PIBO","P",396,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1127","Yoraperla brevis","USFS","PIBO","P",25,5,"slightly fine sediment sensitive","Relyea 2007 Table 4",""
+"1128","Zaitzevia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1129","Zaitzevia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1130","Zaitzevia","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1131","Zaitzevia parvula","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1132","Zaitzevia parvula","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1133","Zaitzevia parvulua parvula","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1134","Zaitzevia parvulua parvula","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1135","Zaitzevia parvulua parvula","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1136","Zapada","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1137","Zapada","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1138","Zapada","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1139","Zapada cinctipes","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1140","Zapada cinctipes","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1141","Zapada cinctipes","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1142","Zapada columbiana","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1143","Zapada columbiana","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1144","Zapada columbiana","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1145","Zapada columbiana/oregonensis group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1146","Zapada columbiana/oregonensis group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1147","Zapada columbiana/oregonensis group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1148","Zapada frigida","USFS","PIBO","P",25,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1149","Zapada frigida","BLM","AIM WW OE","P",25,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1150","Zapada frigida","BLM","AIM PIBO OE","P",25,5,"slightly fine sediment sensitive","Relyea et al. 2012 Table 2",""
+"1151","Zapada oregonensis","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1152","Zapada oregonensis","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1153","Zapada oregonensis group","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1154","Zapada oregonensis group","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1155","Zapada oregonensis group","USFS","PIBO",NA,NA,NA,NA,NA,NA
+"1156","Zavrelimyia","BLM","AIM PIBO OE",NA,NA,NA,NA,NA,NA
+"1157","Zavrelimyia","BLM","AIM WW OE",NA,NA,NA,NA,NA,NA
+"1158","Zonitoides","USFS","PIBO",NA,NA,NA,NA,NA,NA
