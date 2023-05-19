@@ -19,9 +19,9 @@ str(ID_PIBO_OTU)
 ID_WW_OTU <-read.csv("./raw_data/ID_WW_OTU.csv", header = TRUE)
 str(ID_PIBO_OTU)
 
-# PIBO sample macro results from Carl Saunders (USFS) 3-20-2023
-pibo_macro <-read.csv("./raw_data/PIBO_ID_raw.csv", header = TRUE)
-str(pibo_macro)
+# PIBO sample macro results created by processing raw data
+pibo_sample_macro <-read.csv("./formatted_data/FSBI_input_sample_macro_data.csv", header = TRUE)
+str(pibo_sample_macro)
 
 # taxa FSBI scores from Relyea et al. 2012
 relyea_fsbi <-read.csv("./raw_data/Relyea_taxa_FSBI.csv", header = TRUE)
@@ -47,9 +47,10 @@ str(aim_macro)
 # format PIBO data--------------------------------------------------------------
 
 pibo_taxa_formatted <-
-  pibo_macro %>%
-  distinct(scientificName) %>%
-  mutate(agency = "USFS", project = "PIBO")
+  pibo_sample_macro %>%
+  distinct(taxa) %>%
+  mutate(agency = "USFS", project = "PIBO") %>%
+  rename(scientificName = taxa)
 
 str(pibo_taxa_formatted)
 

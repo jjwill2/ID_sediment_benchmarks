@@ -29,27 +29,37 @@ aim_part2 <-read_excel("./raw_data/NAMC Report_Proj2367_2023-03-24.xlsx",
                        sheet = "Site data", col_names = TRUE)
 str(aim_part2)
 
-# PIBO sample macro results from Trip Armstrong 5-15-2023
-pibo_macro <-read.csv("./raw_data/PIBO_ID_raw.csv", header = TRUE)
+# PIBO sample macro results from Trip Armstrong 5-19-2023
+pibo_macro <-read.csv("./raw_data/PIBO_data_merged.csv", header = TRUE)
 str(pibo_macro)
 
-# PIBO sampleid, siteid, rchid crosswalk from Trip Armstrong 5-15-2021
-pibo_crosswalk <-read.csv("./raw_data/PIBO_ID_site_sample.csv", header = TRUE)
+# PIBO siteid rchid crosswalk, for rchids with OE data
+pibo_crosswalk <-
+  read_excel("./raw_data/fseprd1090246.xlsx", sheet = "Macroinverts", col_names = TRUE) %>%
+  filter(State == "ID") %>%
+  filter(!is.na(RIVPACS)) %>%
+  distinct(SiteID, RchID)
 str(pibo_crosswalk)
 
 # format PIBO data--------------------------------------------------------------
 # want file with cols agency, project, site, sample, taxa, with one row per sample/taxa
 
+# in raw data customerSiteCode = RchID
+
+# creates data frame with just ID data
 pibo_macro_formatted <-
-  merge(pibo_macro, pibo_crosswalk, by = "sampleId", all.x = TRUE) %>%
-  select(siteId, RchID, scientificName) %>%
+  pibo_macro %>%
+  select(sampleId, customerSiteCode, siteName, ScientificName) %>%
+  merge(pibo_crosswalk, by.x = "customerSiteCode",
+        by.y = "RchID", all.x = TRUE) %>%
   mutate(agency = "USFS", project = "PIBO") %>%
-  rename(site = siteId, sample = RchID, taxa = scientificName) %>%
-  select(agency, project, site, sample, taxa)
+  rename(site = SiteID, sample = customerSiteCode, taxa = ScientificName) %>%
+  select(agency, project, site, sample, taxa) %>%
+  filter(sample %in% pibo_crosswalk$RchID)
 
 # pibo data checks--------------------------------------------------------------
 
-# do we have raw data for all rchids with OE data? 
+# do we have raw data for all ID rchids with OE data? 
 # PIBO macro OE
 pibo_oe_id <-
   read_excel("./raw_data/fseprd1090246.xlsx", sheet = "Macroinverts", col_names = TRUE) %>%
@@ -58,7 +68,7 @@ pibo_oe_id <-
 
 missing_raw_macro <-
   pibo_oe_id %>%
-  filter(!RchID %in% pibo_macro_formatted$sample)
+  filter(!RchID %in% pibo_macro_formatted$sample) # yes except 2
 
 # format AIM data---------------------------------------------------------------
 # want file with cols agency, project, site, sample, taxa, with one row per sample/taxa

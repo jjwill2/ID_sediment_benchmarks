@@ -135,7 +135,7 @@ for_plot %>%
 pibo_time_series_plot
 
 ggsave("./figures/pibo_time_series_plot.png", pibo_time_series_plot,
-       width = 8.5, height = 6, units = "in", dpi = 600)
+       width = 8.5, height = 8.5, units = "in", dpi = 600)
 
 # time series for COMIDs with data points accross multiple sources--------------
 
@@ -189,7 +189,7 @@ comparison_plot_all_3 <-
 comparison_plot_all_3
 
 ggsave("./figures/comparison_plot_all3.png", comparison_plot_all_3,
-       width = 8.0, height = 3.0, units = "in", dpi = 600)
+       width = 8.0, height = 4.0, units = "in", dpi = 600)
 
 # plot COMIDs with both DEQ & USFS, >=2 samples from each source
 
@@ -305,6 +305,7 @@ frequency_table <-
   merge(for_frequency_tbl, for_frequency_tbl_yrs, by = "siteid") %>%
   select(source, huc4code, siteid, stream, siteclass, order, 
          n_years, min_year, max_year, `mixed evidence`, 
-         `no sediment effect`, `sediment effect likely`) %>%
-  mutate(false_positive_pct = (`sediment effect likely` / n_years) * 100)
+         `no sediment effect`, `sediment effect likely`,
+         `sediment effect very likely`) %>%
+  mutate(false_positive_pct = ((`sediment effect likely` + `sediment effect very likely`) / n_years) * 100)
 
