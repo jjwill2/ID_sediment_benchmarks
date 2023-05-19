@@ -154,7 +154,7 @@ pibo_georef_formatted <-
          huc4name = HUC4NAME) %>%
   merge(pibo_siteinfo_formatted, by.x = "siteid", by.y = "SiteID", all.x = TRUE) %>%
   rename(source_sitetype = Mgmt) %>%
-  mutate(AIM_OE_model = NA)
+  mutate(AIM_OE_model = NA, AIM_Evaluation_ID = NA)
 
 # format aim data---------------------------------------------------------------
 
@@ -163,22 +163,19 @@ aim_georef_formatted <-
   mutate(source = "BLM", sitename = PointID) %>%
   select(source, PointID, sitename, StreamName,  SampledMid, SampledM_1, COMID, AU, 
          StreamOrde, georef_ID305b_cycle, georef_notes, SITECLASS, ECO, 
-         LEVEL4_NAM, DEQ_ADMIN, BASIN, HUC4CODE, HUC4NAME, OE_MMI_Mod) %>%
+         LEVEL4_NAM, DEQ_ADMIN, BASIN, HUC4CODE, HUC4NAME, OE_MMI_Mod, Evaluation) %>%
   rename(siteid = PointID, stream = StreamName, lat = SampledMid, 
          long = SampledM_1, comid = COMID, au = AU, order = StreamOrde,
          siteclass = SITECLASS, l4_code = ECO, l4_name = LEVEL4_NAM,
          deq_region = DEQ_ADMIN, basin = BASIN, huc4code = HUC4CODE,
-         huc4name = HUC4NAME, AIM_OE_model = OE_MMI_Mod) %>%
+         huc4name = HUC4NAME, AIM_OE_model = OE_MMI_Mod,
+         AIM_Evaluation_ID = Evaluation) %>%
   mutate(source_sitetype = ifelse(siteid %in% aim_sed_ref, "sediment reference",
                                   ifelse(siteid %in% aim_sed_degraded, 
                                          "sediment degraded", NA))) 
 
 str(aim_georef_formatted)
 
-# there are some duplicate sites, remove
-aim_georef_formatted_distinct <-
-  aim_georef_formatted %>%
-  distinct(siteid, comid, au, order, .keep_all = TRUE)
 
 # format BURP data -------------------------------------------------------------
 
@@ -196,7 +193,7 @@ burpsites_formatted <-
          deq_region = OFFICE, basin = BASIN, huc4code = HUC4CODE, 
          huc4name = HUC4NAME, l4_code = L4CODE, l4_name = ECO4NAME,
          siteclass = SITECLASS) %>%
-  mutate(AIM_OE_model = NA)
+  mutate(AIM_OE_model = NA, AIM_Evaluation_ID = NA)
 
 
 # there are some BURP sites with AU = 'NULL', correct these
@@ -229,14 +226,14 @@ burpsites_formatted$order[burpsites_formatted$siteid=="1998SBOIA010"]<-2
 # combine & format ------------------------------------------------------------
 
 tbl_sites <-
-  rbind(pibo_georef_formatted, aim_georef_formatted_distinct, burpsites_formatted) %>%
+  rbind(pibo_georef_formatted, aim_georef_formatted, burpsites_formatted) %>%
   mutate(sed_tmdl = ifelse(au %in% sed_tmdl_aus$au, "Y", "N")) %>%
   merge(blm_ecoregion, by = "siteid", all.x = TRUE) %>%
   rename(blm_ecoregion = Ecoregion) %>%
   select(siteid, sitename,  stream, source, lat, long, comid, au, order,
          georef_ID305b_cycle, georef_notes, sed_tmdl, 
          siteclass, l4_code, l4_name, deq_region, blm_ecoregion, basin, huc4code, 
-         huc4name, source_sitetype, AIM_OE_model) %>%
+         huc4name, source_sitetype, AIM_OE_model, AIM_Evaluation_ID) %>%
   arrange(source, siteid) 
 
 

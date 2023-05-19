@@ -55,9 +55,11 @@ str(blm_benchmarks)
 # AIM % fines & OE * Bankfull Width
 aim_fines <-
   read.csv("./raw_data/I_indicators.csv", header = TRUE) %>%
-  filter(Project != "QC") %>%
-  select(PointID, NAMC_Sampl, FieldEvalD, PctFinesLe, OE_Macroin, 
-         OE_MMI_Mod, BankfullWi)
+  mutate(no_OE = ifelse(ExpectedIn < 0.0001, "no OE", NA)) %>%
+  mutate(AIM_OE = ifelse(is.na(no_OE), OE_Macroin, NA)) %>%
+  select(PointID, NAMC_Sampl, FieldEvalD, Evaluation, PctFinesLe, OE_Macroin, 
+         no_OE, AIM_OE, OE_MMI_Mod, BankfullWi, Project)
+
 
 str(aim_fines)
 
@@ -92,7 +94,8 @@ pibo_project_data <-
   merge(pibo_oe, by.y = c("RchID", "SiteID"), by.x = c("Rchid", "siteid"), all.x = TRUE) %>%
   merge(pibo_bw, by.y = c("RchID", "SiteID"), by.x = c("Rchid", "siteid"), all.x = TRUE) %>%
   select(-PebLess2, -PebLess6, -PercentFine2, -PercentFine6, -site, 
-         -n_FSBI_taxa, -X,-agency, -project, -BedPebs, -Yr, -n_taxa) %>%
+         -n_FSBI_taxa, -X,-agency, -project, -BedPebs, -Yr, -n_taxa, 
+         -AIM_OE_model, -AIM_Evaluation_ID) %>%
   rename(sampleid = Rchid, OE = RIVPACS, bankfull_width_m = Bf,
          pct_fine = pct_fine2) %>%
   mutate(OE_benchmark = 0.78, OE_model = "USFS-PIBO", 
@@ -102,18 +105,21 @@ pibo_project_data <-
          SMI2 = NA, BURP_sitescore = NA) %>%
   mutate(date_formatted = as.Date(SampDate, format = "%Y-%m-%d"))
 
-# format aim data---------------------------------------------------------------
+str(pibo_project_data)
 
+# format aim data---------------------------------------------------------------
 
 aim_project_data <-
   tbl_sites %>%
   filter(source == "BLM") %>%
-  merge(aim_fines, by.x = "siteid", by.y = "PointID") %>%
+  merge(aim_fines, by.x = "AIM_Evaluation_ID", by.y = "Evaluation", all = TRUE) %>%
   merge(aim_fsbi, by.x = c("NAMC_Sampl", "AIM_OE_model"),
         by.y = c("sample", "AIM_OE_model"), all.x = TRUE) %>%
-  select(-X, -agency, -project, -site, -n_FSBI_taxa, -n_taxa) %>%
+  filter(Project != "QC") %>%
+  select(-X, -agency, -project, -site, -n_FSBI_taxa, -n_taxa, -no_OE, -OE_Macroin,
+         -AIM_Evaluation_ID, -AIM_OE_model, -PointID, -Project) %>%
   rename(SampDate = FieldEvalD, pct_fine = PctFinesLe, sampleid = NAMC_Sampl, 
-         OE = OE_Macroin, bankfull_width_m = BankfullWi) %>%
+         OE = AIM_OE, bankfull_width_m = BankfullWi) %>%
   mutate(date_formatted = as.Date(SampDate, format = "%m/%d/%Y")) %>%
   mutate(OE_benchmark = ifelse(OE_MMI_Mod == "ColumbiaRiverBasin_PIBO", 0.63,
                                ifelse(OE_MMI_Mod == "Westwide2018_OtherEcoregions", 0.72, NA)),
@@ -141,7 +147,7 @@ burp_project_data <-
          source_sitetype, sampleid, SampDate, date_formatted, 
          bankfull_width_m, bankfull_width_category, 
          pct_fine, pct_fine_fraction, sample_FSBI, SMI2, BURP_sitescore,
-         OE, OE_benchmark, OE_model, AIM_OE_model) %>%
+         OE, OE_benchmark, OE_model) %>%
   filter(!is.na(pct_fine))
 
 str(burp_project_data)

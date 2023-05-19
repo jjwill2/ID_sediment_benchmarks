@@ -212,7 +212,7 @@ comparison_plot_usfs_pibo
 
 ggsave("./figures/comparison_plot_burp_pibo.png",
        comparison_plot_usfs_pibo,
-       width = 8.5, height = 6.0, units = "in", dpi = 600)
+       width = 8.5, height = 10.0, units = "in", dpi = 600)
 
 # plot COMIDs with both DEQ & BLM, >=2 samples from each source
 
@@ -260,9 +260,12 @@ OE_boxplot <-
   for_OE_boxplot %>%
   filter(variable == "framework_prediction") %>%
   filter(!is.na(value)) %>%
-  ggplot(aes(x = value, y = OE)) +
+  mutate(label_order = factor(value, 
+          levels = c("no sediment effect", "mixed evidence",
+                          "sediment effect likely", 
+                          "sediment effect very likely"))) %>%
+  ggplot(aes(x = label_order, y = OE)) +
   geom_boxplot() +
-  #geom_point(shape = 1) +
   facet_wrap(~source, nrow= 2) +
   theme_bw() +
   labs(y = "macroinvertebrate O/E") +

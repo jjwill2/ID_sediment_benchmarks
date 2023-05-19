@@ -31,7 +31,7 @@ predictions <-
   mutate(framework_prediction =  ifelse(has_both == "N", "additional line of evidence needed",
                                         ifelse(exceeds_both_ref == "Y" & exceeds_SME75 == "N", "sediment effect likely",
                                                
-                                               ifelse(exceeds_both_ref == "Y" & exceeds_SME75 == "Y", "sedement effect very likely",
+                                               ifelse(exceeds_both_ref == "Y" & exceeds_SME75 == "Y", "sediment effect very likely",
                                                       
                                                       ifelse(exceeds_both_ref == "N" & exceeds_SME75 == "Y", "mixed evidence",
                                                              
