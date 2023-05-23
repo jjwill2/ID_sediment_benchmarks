@@ -80,9 +80,7 @@ write.csv(taxa_relyea_merged, "./formatted_data/taxa_relyea_merged.csv")
 
 manual_additions <-
   read.csv("./formatted_data/manual_fsbi_taxa_score_additions.csv") %>%
-  select(-X.1) %>%
-  mutate(id = paste(scientificName, agency, project)) %>%
-  select(-X)
+  mutate(id = paste(scientificName, agency, project)) 
 str(manual_additions)
 
 # add manual additions----------------------------------------------------------
